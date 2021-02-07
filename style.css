@@ -1,0 +1,39 @@
+	.maindiv1{
+		display:flex;
+		flex-wrap:wrap;
+		justify-content:space-between;
+		margin:120px;
+
+	}
+	.maindiv2{
+		display:flex;
+		flex-wrap:wrap;
+		justify-content:space-between;
+		margin:120px;
+	}
+	.maindiv3{
+		display:flex;
+		flex-wrap:wrap;
+		justify-content:space-between;
+		margin:120px;
+	}
+	.maindiv4{
+		display:flex;
+		flex-wrap:wrap;
+		justify-content:space-between;
+		margin:120px;
+	}
+
+/*-------------------The 2D Project Css Here ----------------*/
+.child{
+	height:100px;
+	width:200px;
+	border-radius:10px;
+	background-color:white;
+	box-shadow:5px 10px 20px red inset;
+	transition:transform 1s linear 0s;
+}
+
+h1{
+	color:tomato;
+}
